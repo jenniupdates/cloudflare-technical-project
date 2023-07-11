@@ -1,0 +1,58 @@
+{
+  "result": [
+    {
+      "id": "492b2143acf41e6e2e5c09f0aef5674b",
+      "zone_id": "20a7b4184301472531b4b6cb08723ee0",
+      "zone_name": "limyinshan.com",
+      "name": "www.limyinshan.com",
+      "type": "A",
+      "content": "44.203.2.85",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "locked": false,
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "source": "primary"
+      },
+      "comment": "www.limyinshan.com points to 44.203.2.85 and has its traffic proxied through Cloudflare.",
+      "tags": [],
+      "created_on": "2023-07-10T15:05:53.365914Z",
+      "modified_on": "2023-07-10T17:41:09.939064Z"
+    },
+    {
+      "id": "db2b4a5be794ef7f97da6007ac8bf590",
+      "zone_id": "20a7b4184301472531b4b6cb08723ee0",
+      "zone_name": "limyinshan.com",
+      "name": "tunnel.limyinshan.com",
+      "type": "CNAME",
+      "content": "80f7bf30-becc-4e86-84b4-c984a7c9da6a.cfargotunnel.com",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "locked": false,
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "source": "primary"
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2023-07-10T20:16:32.153796Z",
+      "modified_on": "2023-07-10T20:16:32.153796Z"
+    }
+  ],
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "result_info": {
+    "page": 1,
+    "per_page": 100,
+    "count": 2,
+    "total_count": 2,
+    "total_pages": 1
+  }
+}
