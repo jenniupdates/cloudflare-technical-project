@@ -1,4 +1,10 @@
 # cloudflare-technical-project
- cloudflare technical project deliverables
+cloudflare technical project deliverables
 
-<update readme with commandline instructions...>
+## Related Links
+- Domain: www.limyinshan.com 
+- Tunnel: https://tunnel.limyinshan.com 
+- Additional path: limyinshan.com/geo
+- Secured Path (Zero Trust System): https://tunnel.limyinshan.com/geo
+
+
