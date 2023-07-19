@@ -1,3 +1,4 @@
 node_modules/*
 5.cloudflare-worker/node_modules/*
 .DS_Store
+cloudflare-v1-keypair.pem
